@@ -1,7 +1,5 @@
-/* mai — Tailwind CSS entry point */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* mai — Tailwind CSS v4 entry point */
+@import "tailwindcss";
 
 /* Custom base styles */
 @layer base {
